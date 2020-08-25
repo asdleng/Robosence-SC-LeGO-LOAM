@@ -1,4 +1,4 @@
-# Robosence-SC-Lego-Loam
+# Robosence-SC-LeGO-LOAM
 
 This respository is an example SC-LeGO-LOAM for Robosence RS-lidar-16.
 
